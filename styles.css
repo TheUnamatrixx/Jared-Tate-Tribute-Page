@@ -15,3 +15,11 @@ body {
 h1 {
 	font-family: Arial;
 	color: blue;}
+	
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+	
