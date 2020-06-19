@@ -1,5 +1,6 @@
 html {
-  font-size: 50px;
+  font-size: 10px;
+  background-color: lightblue;
 }
 
 body {
@@ -13,4 +14,4 @@ body {
 
 h1 {
 	font-family: Arial;
-	color: Red;}
+	color: blue;}
