@@ -27,4 +27,4 @@ You can build your project by forking this CodePen pen. Or you can use this CDN 
 
 Once you're done, submit the URL to your working project with all its tests passing.
 
-Solution: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page
+Solution: https://codepen.io/theunamatrixx/pen/RwrKJbg
